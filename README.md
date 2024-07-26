@@ -114,4 +114,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **SpeechRecognition**: For handling speech-to-text conversion.
 - **pywhatkit**: For performing web searches and other tasks.
 - **pyjokes**: For generating random jokes.
-- **[Your Collaborators]**: For contributing to the development of this project.
+- **[Akash Choudhary](https://github.com/iakashchoudhary)**: For contributing to the development of this project.
