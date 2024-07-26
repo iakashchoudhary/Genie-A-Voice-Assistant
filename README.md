@@ -25,13 +25,13 @@ To use the Virtual Assistant, follow these steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/virtual-assistant.git
+    git clone https://github.com/iakashchoudhary/Genie-A-Voice-Assistant.git
     ```
 
 2. **Navigate to the Project Directory**:
 
     ```bash
-    cd virtual-assistant
+    cd Genie-A-Voice-Assistant
     ```
 
 3. **Install Dependencies**:
@@ -54,7 +54,7 @@ To use the Virtual Assistant, follow these steps:
 1. **Run the Assistant**:
 
     ```bash
-    python assistant.py
+    python virtualassistant.py
     ```
 
 2. **Interact with the Assistant**:
@@ -81,7 +81,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. **Clone Your Fork**:
 
     ```bash
-    git clone https://github.com/yourusername/virtual-assistant.git
+    git clone https://github.com/iakashchoudhary/Genie-A-Voice-Assistant.git
     ```
 
 3. **Create a New Branch**:
